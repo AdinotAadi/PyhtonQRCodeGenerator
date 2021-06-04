@@ -9,3 +9,5 @@ python -m pip install pyqrcode
 python -m pip install pypng
 
 The program also has a pop-up window showing the above message, just in case you've managed to miss it here.
+
+![Uploading image.png…]()
