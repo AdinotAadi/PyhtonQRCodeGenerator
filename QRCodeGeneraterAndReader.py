@@ -26,7 +26,7 @@ def generate():
         qr=pyqrcode.create(Sub.get())
         qrimg=BitmapImage(data=qr.xbm(scale=10))
     else:
-        messagebox.showinfo("Warning!","Enter Subject!")
+        messagebox.showinfo("Warning!","Enter Data!")
     try:
         showqr()
     except:
