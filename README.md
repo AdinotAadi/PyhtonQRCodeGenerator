@@ -8,4 +8,4 @@ python -m pip install pyqrcode
 # To Install pypng, in cmd, type:
 python -m pip install pypng
 
-The program also has a pop-up window whowing the above message, just in case you've managed to miss it here.
+The program also has a pop-up window showing the above message, just in case you've managed to miss it here.
