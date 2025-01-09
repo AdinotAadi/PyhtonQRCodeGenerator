@@ -15,7 +15,6 @@ messagebox.showinfo("Important!", '''Make Sure To Install pyqrcode & pypng.
 
 in cmd type:
 python -m pip install pyqrcode
-python -m pip install pyqrcode
 
 Ignore If Already Installed.''')
 
