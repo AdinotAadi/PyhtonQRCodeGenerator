@@ -14,7 +14,7 @@ root.title("QR Code Generator")
 messagebox.showinfo("Important!", '''Make Sure To Install pyqrcode & pypng.
 
 in cmd type:
-python -m pip install pyqrcode
+pip install -r requirements.txt
 
 Ignore If Already Installed.''')
 
